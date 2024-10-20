@@ -1,0 +1,90 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing:border-box;
+}
+body{
+   background-color:rgba(242, 240, 237, 0.768); 
+}
+.main{
+    background-color: white;
+    width: 50%;
+    margin: 25%;
+    padding: 50px;
+    border-radius: 10px;
+}
+.image{
+    width: 100%;
+    border-radius: 10px;
+
+}
+.heading{
+    font-family:cursive;
+    color:#0b0b0b;
+    margin: 20px 0 20px;
+
+}
+.preparation1{
+    margin: 30px 20px 20px; 
+    color: #662020;
+}
+
+.preparation2{
+    margin: 10px 40px 20px;
+    color: #0b0b0b;
+}
+.ingredients1{
+    font-size: 20px;
+    color:#662020;
+    padding-bottom: 10px;
+    padding-top: 20px;
+
+}
+.ingredients2{
+    margin: 10px 30px 10px;
+    color: #0b0b0b;
+}
+.instructions1{
+    font-size: 20px;
+    color:#662020;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+.instructions2{
+    margin: 10px 30px 10px;
+    color: #0b0b0b;
+}
+.nutrition1{
+    font-size: 20px;
+    color:#662020;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
+}
+.nutrition-para{
+  color: #020000;  
+}
+.table{
+    font-family: Arial, sans-serif;
+ border-collapse:collapse;
+ width: 100%;
+ line-height: 5rem;
+ margin-top: 26px;}
+
+ td{
+    border-bottom: 1px solid #f0c49f;
+   padding: 10px;
+   margin: 20px;
+   color: #000000;
+}
+
+ th{
+   border-bottom: 1px solid #f0c49f;
+   padding: 10px;
+   margin: 30px;
+   color: #662020;
+}
+
+tr:hover{
+    background-color:#eb5c04;
+}
